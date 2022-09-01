@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    front-family: "open sans"
+}
+.comtenedor{
+    padding: 60px;
+    width: 90%;
+    max-width:1000px;
+    margin: auto;
+    overflow: hidden;
+}
+.titulo{
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+
+
+}
+
+
+
+<link rel = "stylesheet" type="texto/css"href="Paginas Web_Macara"
